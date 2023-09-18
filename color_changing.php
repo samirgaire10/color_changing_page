@@ -9,7 +9,7 @@
         ?>
 
     <h2>color changing page</h2>
-    <p>page will change it`s color when u cilck</p>
+    <p>page will change it`s color when u cilck and submit</p>
 
     <form method="POST" action="color_changing.php">
 
